@@ -31,10 +31,10 @@ About me - I'm American and I want to make non data collecting American-made sof
 
 All of these projects will get published to GitHub eventually or on my own website at least. Except for these ones:
 
-snoopy
-minuteman
-Tear
-XKS CV
+snoopy |
+minuteman |
+Tear |
+XKS CV |
 ---
 
 ### 🧪 Currently Learning
