@@ -27,7 +27,7 @@ About me - I'm American and I want to make non data collecting American-made sof
 - **Fira** – Defensive tool to rapidly harden an OS.
 - **Tear** – IP netstat tracer & decryptor.
 
-...and a bunch of old ones I’m too lazy to find right now.
+...and a bunch of old ones I’m too lazy to find right now like a email service, a google docs like editor, a google sheets like editor, and an app that allows you to easily share stuff on the same Wi-Fi.
 
 All of these projects will get published to GitHub eventually or on my own website at least. Except for these ones:
 
