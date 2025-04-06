@@ -42,6 +42,7 @@ XKS CV |
 - Offensive/Defensive Security
 - OS Development
 - Cryptography
+- Studying to get CCNA & Security+
 
 
 ---
