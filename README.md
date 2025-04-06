@@ -16,7 +16,7 @@ About me - I'm American and I want to make non data collecting American-made sof
 - **Starshell** – Integrated cybersecurity terminal suite.
 - **iOS Analyzer** – Reverse engineering iOS 18 & running custom code on it.
 - **VSWinLX** – A project in progress getting Visual Studio 2022 working natively on my custom OS by changing Windows dependencies.
-- **Void 512** – Ultra-secure, quantum-resistant local drive & file manager.
+- **Void 512** – Stupidly secure, quantum-resistant local drive & file manager.
 - **snoopy** – Geolocation to IP, MAC, and metadata extraction tool.
 - **minuteman** – Windows graphics exploit.
 - **XSNetwork** – Router management & offensive security tool.
