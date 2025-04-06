@@ -2,8 +2,7 @@
 
 About me - I'm American and I want to make non data collecting American-made software because I'm tired of everything being Chinese. That sounds... 😂
 
-
-
+My account on TryHackMe is Floki2.
 
 ---
 
