@@ -29,6 +29,12 @@ About me - I'm American and I want to make non data collecting American-made sof
 
 ...and a bunch of old ones I’m too lazy to find right now.
 
+All of these projects will get published to GitHub eventually or on my own website at least. Except for these ones:
+
+snoopy
+minuteman
+Tear
+XKS CV
 ---
 
 ### 🧪 Currently Learning
