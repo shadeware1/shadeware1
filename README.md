@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<!--
 About me - I'm American and I want to make advanced American-made software because I'm tired of everything being Chinese. That sounds... 😂
--->
+
 
 
 
