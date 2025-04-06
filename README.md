@@ -35,7 +35,7 @@ About me - I'm American and I want to make non data collecting American-made sof
 - Cyber weapon development
 - Reverse engineering
 - Offensive/Defensive Security
-- Intellgence Analyzing
+- OS Development
 - Cryptography
 
 
