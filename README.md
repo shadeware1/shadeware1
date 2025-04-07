@@ -8,7 +8,7 @@ My account on TryHackMe is Floki2.
 
 ### ⚙️ Projects I'm Building
 
-- **AzureOS** – Stripped, custom version of Windows 11. Like Arch → BlackArch, Windows 11 → AzureOS.
+- **Tundra OS** – Stripped, custom version of Windows 11. Like Arch → BlackArch, Windows 11 → AzureOS.
 - **FlokiOS** – Custom OS.
 - **HermesOS** – Like Arch → BlackArch, FlokiOS → HermesOS.
 - **Mint Script** – Custom coding language for making secure programs.
